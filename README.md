@@ -31,3 +31,7 @@ bioinformatics@niaid.nih.gov
 - shiny tutorial with breast cancer data: <https://bioinformatics-core-shared-training.github.io/shiny-bioinformatics/tutorial> 
 - shiny app for bioconductor Genomic IRanges <https://bioconductor.org/packages/release/bioc/html/interactiveDisplay.html> 
 
+## Past Classes
+
+- 2019 BCBB Bioinformatics Workshops at RML - [rml2019 branch](https://github.com/niaid/R_Intro/tree/rml2019)
+
